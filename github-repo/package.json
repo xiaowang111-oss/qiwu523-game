@@ -1,0 +1,15 @@
+{
+  "name": "qiwang523-online",
+  "version": "1.0.0",
+  "private": true,
+  "description": "七王五二三（七鬼五二三）联机服务端 · 可部署到云服务器的全网匹配版（零依赖 Node.js）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build:mobile": "node build-mobile.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "license": "MIT"
+}
