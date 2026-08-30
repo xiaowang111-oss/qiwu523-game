@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: qiwu523
-    runtime: node
-    plan: free
-    region: singapore
-    buildCommand: npm install
-    startCommand: node server.js
